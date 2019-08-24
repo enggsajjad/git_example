@@ -1,12 +1,12 @@
-This is now the first
-This is master file
-This is master file
-This is master file
-This is master file
-This is master file
-This is master file
-This is master file
-This is master file
-This is master file
-This is master file
-This is master file
+This is now the first line
+New line in new file
+New line in new file
+New line in new file
+New line in new file
+New line in new file
+New line in new file
+New line in new file
+New line in new file
+New line in new file
+New line in new file
+New line in new file
